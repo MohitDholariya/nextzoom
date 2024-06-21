@@ -1,8 +1,15 @@
 import React from 'react'
+import Button from '../../../components/Button'
 
 const page = () => {
   return (
-    <div>admin page</div>
+    <>
+      <Button/><br/>
+      <Button/><br/>
+      <Button/><br/>
+      <Button/><br/>
+      <Button/>
+    </>
   )
 }
 

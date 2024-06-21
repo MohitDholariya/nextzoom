@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>profile page</div>
+    <div>user profile page</div>
   )
 }
 
